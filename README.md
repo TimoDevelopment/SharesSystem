@@ -1,0 +1,2 @@
+# SharesSystem
+Plugin - AktienSystem + Webinterface
